@@ -1,5 +1,5 @@
 # NYC-Airbnb
-Jupyter Notebook with data exploration and visualization study on the Kaggle's 'New York City Airbnb Open Data'.
+Jupyter Notebook with data exploration and visualization study on the *'New York City Airbnb Open Data'*.
 - Created some plots to show the data and extract insights
   - Boxplots, histograms, bar graphics
 - Did a simple Natural Language Processing to analyze the reviews of the rentals.

@@ -1,4 +1,7 @@
 # NYC-Airbnb
-Jupyter Notebook with my Data Viz study on the Kaggle's 'New York City Airbnb Open Data' dataset
-I am really new at Data Science, so I am just sharing and learning as I am doing. But I am sure the code could be much simpler when doing some tasks.
-Enjoy!
+Jupyter Notebook with data exploration and visualization study on the Kaggle's 'New York City Airbnb Open Data'.
+- Created some plots to show the data and extract insights
+  - Boxplots, histograms, bar graphics
+- Did a simple Natural Language Processing to analyze the reviews of the rentals.
+  - Word Cloud, word frequence count, Bigrams and Trigrams analysis.
+- Wrote a Conclusion Report.
